@@ -29,4 +29,7 @@ $ python3 luna.py
 
 ## Note
 
-- For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
+- For Any Help, Ask Here [OkaeriUserbot](https://t.me/OkaeriUserbot)
+
+## Credit
+- [TheHamkerCat](https://github.com/TheHamkerCat)
