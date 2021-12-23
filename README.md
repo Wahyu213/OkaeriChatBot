@@ -11,25 +11,9 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 ## Installation
 
-```sh
-$ git clone https://github.com/Wahyu213/OkaeriChatBot
-$ cd OkaeriChatBot
-$ pip3 install -U -r requirements.txt
-$ cp sample_config.py config.py
-```
-Edit `config.py` with your own values.
-```sh
-$ python3 luna.py
-```
-
-
-## Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/OkaeriChatBot/tree/master)
-
-## Note
-
-- For Any Help, Ask Here [OkaeriUserbot](https://t.me/OkaeriUserbot)
-
-## Credit
-- [TheHamkerCat](https://github.com/TheHamkerCat)
+1. `git clone https://github.com/Wahyu213/OkaeriChatBot`
+2. `cd OkaeriChatBot`
+3. `pip3 install -r requirements.txt` to install the requirements.
+4. `cp sample_config.py config.py`
+5. Edit `config.ini` with your own values.
+6. Run with `python3 luna.py`
