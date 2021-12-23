@@ -27,15 +27,6 @@ $ python3 luna.py
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/OkaeriChatBot/tree/master)
 
-
-## Docker
-
-Follow Installation Guide.
-```sh
-$ sudo docker build -t luna .
-$ sudo docker run luna
-```
-
 ## Note
 
 - For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
