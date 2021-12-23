@@ -13,4 +13,4 @@ COPY . .
 RUN pip3 install -U -r requirements.txt
 
 # Running Okaeri
-CMD ["python3","luna.py"]
+CMD ["python3","okaeri.py"]
